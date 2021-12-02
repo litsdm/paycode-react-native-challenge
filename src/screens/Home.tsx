@@ -7,10 +7,11 @@
  * }
  * 
  * 
- * Challenge: Debes de hacer una llamada al endpoint proporcionado, cargar las ordenes y renderizarlas
+ * Challenge
+ * 1. Debes de hacer una llamada al endpoint proporcionado, cargar las ordenes y renderizarlas
  * en una lista utilizando el componente OrderRow.
- * Extra: Manejar pagination usando first y offset en el API.
- * Extra: Hacer que el componente de Header se mueva junto con la lista.
+ * 2. Manejar pagination usando first y offset en el API.
+ * 3. Hacer que el componente de Header se mueva junto con la lista.
  */
 
 
